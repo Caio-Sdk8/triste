@@ -1,0 +1,16 @@
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\exerrep5.csprojAssemblyReference.cache
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\exerrep5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\exerrep5.AssemblyInfoInputs.cache
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\exerrep5.AssemblyInfo.cs
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\exerrep5.csproj.CoreCompileInputs.cache
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\bin\Debug\net5.0\exerrep5.exe
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\bin\Debug\net5.0\exerrep5.deps.json
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\bin\Debug\net5.0\exerrep5.runtimeconfig.json
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\bin\Debug\net5.0\exerrep5.runtimeconfig.dev.json
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\bin\Debug\net5.0\exerrep5.dll
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\bin\Debug\net5.0\ref\exerrep5.dll
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\bin\Debug\net5.0\exerrep5.pdb
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\exerrep5.dll
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\ref\exerrep5.dll
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\exerrep5.pdb
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exerrep5\obj\Debug\net5.0\exerrep5.genruntimeconfig.cache

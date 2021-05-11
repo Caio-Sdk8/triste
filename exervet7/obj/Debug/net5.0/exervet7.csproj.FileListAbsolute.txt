@@ -1,0 +1,16 @@
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\bin\Debug\net5.0\exervet7.exe
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\bin\Debug\net5.0\exervet7.deps.json
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\bin\Debug\net5.0\exervet7.runtimeconfig.json
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\bin\Debug\net5.0\exervet7.runtimeconfig.dev.json
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\bin\Debug\net5.0\exervet7.dll
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\bin\Debug\net5.0\ref\exervet7.dll
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\bin\Debug\net5.0\exervet7.pdb
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\exervet7.csprojAssemblyReference.cache
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\exervet7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\exervet7.AssemblyInfoInputs.cache
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\exervet7.AssemblyInfo.cs
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\exervet7.csproj.CoreCompileInputs.cache
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\exervet7.dll
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\ref\exervet7.dll
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\exervet7.pdb
+C:\Users\caio0\OneDrive\Documentos\lista_exer\exervet7\obj\Debug\net5.0\exervet7.genruntimeconfig.cache
